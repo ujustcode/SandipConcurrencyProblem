@@ -19,4 +19,5 @@ The choclate maker has to open the container and place the produced Choclate whi
    
 Clone or Download the project into your local repository to run the code.
 
-There is a picture provided at the root folder to see the Console Output.
+There is a picture provided at the root folder to see the Console Output follow the link below .
+      https://github.com/ujustcode/SandipConcurrencyProblem/blob/master/Solution_ConsoleOutput.PNG
